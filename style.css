@@ -33,3 +33,12 @@ img {
     width: 150px;
 }
 
+.second {
+    padding-top: 50px;
+}
+
+.bill,
+.saba,
+.shae {
+    padding-bottom: 45px;
+}

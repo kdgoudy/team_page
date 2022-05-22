@@ -4,11 +4,32 @@
     box-sizing: border-box;
 }
 
+.main {
+    width: 90%;
+    padding-left: 6%;
+}
+
+.col-xs-4 {
+    width: 25%;
+    float: left;
+}
+
 .header {
     display: flex;
     flex-direction: row;
+    padding-bottom: 15px;
 }
 
 .header-text {
     padding-left: 50%;
 }
+
+img {
+    height: 200px;
+    width: 150px;
+}
+
+.side {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
